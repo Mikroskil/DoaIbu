@@ -1,8 +1,7 @@
-/**
- * okaidia theme for JavaScript, CSS and HTML
- * Loosely based on Monokai textmate theme by http://www.monokai.nl/
- * @author ocodia
- */
+body{
+	background-image:url(../../gambar/ganja%20bung.jpg);
+	}
+
 
 code[class*="language-"],
 pre[class*="language-"] {
@@ -24,6 +23,8 @@ pre[class*="language-"] {
 	-ms-hyphens: none;
 	hyphens: none;
 }
+h3{
+	color:#FF5FAA;}
 
 /* Code blocks */
 pre[class*="language-"] {
@@ -35,7 +36,7 @@ pre[class*="language-"] {
 
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
-	background: #272822;
+	background: #red;
 }
 
 /* Inline code */
