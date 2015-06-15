@@ -1,0 +1,22 @@
+{
+  "name": "bespoke-theme-mozilla-sandstone",
+  "version": "0.0.2",
+  "main": "./dist/bespoke-theme-mozilla-sandstone.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bespoke.js": ">=1.0.0"
+  },
+  "homepage": "https://github.com/bensternthal/bespoke-theme-mozilla-sandstone",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.2",
+    "commit": "05e37fe69ec8d7b177dc8af63a49fdf5105edb06"
+  },
+  "_source": "git://github.com/bensternthal/bespoke-theme-mozilla-sandstone.git",
+  "_target": "~0.0.2",
+  "_originalSource": "bespoke-theme-mozilla-sandstone",
+  "_direct": true
+}

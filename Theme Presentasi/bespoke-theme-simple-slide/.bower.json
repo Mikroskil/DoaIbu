@@ -1,0 +1,22 @@
+{
+  "name": "bespoke-theme-simple-slide",
+  "version": "0.1.0",
+  "main": "./dist/bespoke-theme-simple-slide.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bespoke.js": ">=1.0.0"
+  },
+  "homepage": "https://github.com/Nytramr/bespoke-theme-simple-slide",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "5d162c4847e5d943d2d1f9888781c93c0a92fbda"
+  },
+  "_source": "git://github.com/Nytramr/bespoke-theme-simple-slide.git",
+  "_target": "~0.1.0",
+  "_originalSource": "bespoke-theme-simple-slide",
+  "_direct": true
+}

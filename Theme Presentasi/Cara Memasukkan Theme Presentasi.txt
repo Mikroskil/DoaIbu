@@ -1,0 +1,11 @@
+1. copy semua folder yang ada di Theme Presentasi
+2. Paste di folder bower_components
+3. buka cmd/git bash dan jalankan perintah gulp serve
+Jika mau Mengganti theme
+1. buka folder src
+2. buka folder scripts
+3. buka main.js
+4  ubah voltaire = require('bespoke-theme-voltaire'), menjadi
+   nebula = require('bespoke-theme-nebula'), berdasarkan nama folde
+   dan ubah juga di bagian voltaire(), menjadi nebula(),
+
