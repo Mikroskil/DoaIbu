@@ -1,0 +1,8 @@
+git status
+git pull origin
+git status
+git add .
+git status
+git commit -m "isikan nama commit"
+git status
+git push origin

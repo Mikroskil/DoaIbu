@@ -117,3 +117,6 @@ pre[class*="language-"] {
 	cursor: help;
 }
 
+section {
+  a: "src";
+}
